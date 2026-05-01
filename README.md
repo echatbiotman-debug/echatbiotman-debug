@@ -102,11 +102,12 @@ Project	Description	Tech Stack	Links
 
 💬 Ask me about JavaScript, Python, Cloud Architecture, DevOps
 
-📫 Reach me at: brahim.elhouss2@gmail.com
+📫 Reach me at: echatbiotman@gmail.com
 
 ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
 
 🤝 Let's Connect
-echatbiotman@gmail.com
+
+    0628366361
 
 
