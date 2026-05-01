@@ -1,9 +1,9 @@
 
-Coding Animation
-Typing SVG
-    
+
 
 👨‍💻 About Me
+
+
 const otman = {
     location: "Morocco 🇲🇦",
     role: "Full Stack Software Engineer",
@@ -16,46 +16,119 @@ const otman = {
     },
     challenge: "Building the next generation of web applications"
 };
-🚀 Passionate full-stack developer from Morocco with expertise in building scalable web applications and cloud infrastructure. I specialize in modern web technologies and cloud-native solutions, with a proven track record of delivering high-quality software.
+
+
+🚀 Passionate full-stack developer from Morocco with expertise in building scalable web applications and cloud infrastructure. 
+
+I specialize in modern web technologies and cloud-native solutions, with a proven track record of delivering high-quality 
+
+
+software.
 
 🎯 Current Projects
+
 🎬 Watch Party Platform - Real-time synchronized video streaming platform with WebRTC
+
+
 💬 Quick Chat V2 - High-performance real-time messaging application with WebSocket
+
+
 📧 SaaS Mailbox Solution - Serverless email management system using AWS (SES + S3 + Lambda)
+
+
 🔧 Building microservices architecture with Docker & Kubernetes
+
+
 🏆 Highlights
+
+
 ⚡ 3+ years of software development experience
+
+
 🌟 Contributed to 15+ open source projects
+
+
 📦 Built and deployed 20+ production applications
+
+
 ☁️ Certified in AWS and cloud technologies
+
+
 🎓 Continuous learner and tech enthusiast
+
+
 🛠️ Tech Stack
+
+
 💻 Languages
+
+
 JavaScript TypeScript Python PHP C HTML5 CSS3 Bash
+
+
 🎨 Frontend Development
+
+
 React Next.js Vue.js Nuxt.js Angular Tailwind Bootstrap Sass
+
+
 ⚙️ Backend Development
+
+
 Node.js Express NestJS Django Flask FastAPI GraphQL
+
+
 🗄️ Databases
-PostgreSQL MongoDB MySQL Redis SQLite
-☁️ Cloud & DevOps
-AWS Azure GCP Docker Kubernetes GitHub Actions GitLab CI Jenkins Nginx
+
 🧰 Tools & Others
+
+
 Git GitHub VS Code Vim Postman Figma Linux Webpack
+
+
 📊 GitHub Analytics
+
+
 GitHub Streak
+
+
 Contribution Graph
+
+
 🏆 GitHub Trophies
+
+
 GitHub Trophies
+
+
 🌟 Featured Projects
+
+
 Project	Description	Tech Stack	Links
+
+
 🎬 Watch Party V2	Real-time video synchronization platform with chat	React, WebRTC, WebSocket, Node.js	Code
+
+
+
 💬 Quick Chat	Lightning-fast messaging app with WebSocket	Next.js, Socket.io, Redis, MongoDB	Code
+
+
 💰 Budgetify	Personal expense tracking application	Python, Flask, SQLite	Code
+
+
 🔐 SecureChat	End-to-end encrypted messaging platform	JavaScript, WebRTC, Node.js	Code
+
+
 💼 Professional Experience
+
+
 software_engineer:
+
+
   focus: Full Stack Development & Cloud Architecture
+
+  
   specializations:
     - Building scalable web applications
     - Microservices architecture
@@ -65,6 +138,8 @@ software_engineer:
   
   approach: "Clean code, TDD, Agile methodologies"
   availability: "Open to exciting opportunities"
+
+  
 🎓 Certifications & Learning
 ☁️ AWS Certified Solutions Architect
 🐳 Docker & Kubernetes Expert
@@ -76,7 +151,7 @@ software_engineer:
 🌱 Learning advanced Kubernetes orchestration
 👯 Looking to collaborate on open-source projects
 💬 Ask me about JavaScript, Python, Cloud Architecture, DevOps
-📫 Reach me at: brahim.elhouss2@gmail.com
+📫 Reach me at: echatbiotman@gmail.com
 ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
 🤝 Let's Connect
 LinkedIn Twitter Telegram YouTube
@@ -87,6 +162,6 @@ LinkedIn Twitter Telegram YouTube
 
 
 Snake animation
-⭐️ From EL-HOUSS-BRAHIM | Made with ❤️ and ☕
+⭐️ From Otman Echatbi | Made with ❤️ and ☕
 
 If you find my work interesting, don't hesitate to star ⭐ my repositories!
