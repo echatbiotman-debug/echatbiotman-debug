@@ -1,4 +1,4 @@
-const otman = {
+const otman = { 
 location: "Могоссо ма",
 role: "Full Stack Software Engineer",
 code: ["JavaScript", "TypeScript", "Python", "PHP", "C"],
