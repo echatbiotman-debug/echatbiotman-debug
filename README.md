@@ -5,15 +5,16 @@
 > ### "Programming isn’t about what you know; it’s about what you can figure out."
 
 ---
+<!-- Header Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Otman-Echatbi;Full+Stack+Developer;learner+in+Ccfbs;From+Morocco+%F0%9F%87%B2%F0%9F%87%AE" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
-<br/>
 
-<img width="540" height="540" alt="spin" src="https://github.com/user-attachments/assets/2f2bd0bc-fa00-41fc-80b0-540c3ef18353" />
-
-
-<br/>
 
 ---
 
