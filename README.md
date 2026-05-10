@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
+  <img src="https://github.com/echatbiotman-debug/echatbiotman-debug/blob/master/spin.gif" alt="loading..." />
 </p>
 
 > ### "Programming isn’t about what you know; it’s about what you can figure out."
